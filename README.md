@@ -74,7 +74,7 @@
 
  **3. 1 결과 화면**
 
-<img width="636" alt="2" src="https://github.com/user-attachments/assets/207b8fdb-3eab-4dba-8be5-67dd8023395c" />
+<img width="600" alt="2" src="https://github.com/user-attachments/assets/207b8fdb-3eab-4dba-8be5-67dd8023395c" />
 
 (사진 넣기)
 
