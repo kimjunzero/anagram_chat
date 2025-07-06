@@ -1,6 +1,7 @@
 # Raspberry Pi - anagram_chat/I2C_LCD Driver
 
-![image.png](attachment:9371f34f-66a6-404f-bad3-5f43c5e2ff59:image.png)
+<img width="332" alt="애너그램" src="https://github.com/user-attachments/assets/7a9d4ced-f228-4ce4-97da-78b996ad2f0d" />
+
 
 ### 1. 개요
 
@@ -73,7 +74,8 @@
 
  **3. 1 결과 화면**
 
-![image.png](attachment:77e40e8e-6536-448b-87e4-c8fb7ee1fd92:image.png)
+<img width="636" alt="2" src="https://github.com/user-attachments/assets/66af1261-50c6-4e27-872c-85bf7fad02ad" />
+
 
 (사진 넣기)
 
