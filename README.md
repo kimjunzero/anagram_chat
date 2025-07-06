@@ -72,56 +72,6 @@
 4. 랭킹 확인 명령 → LCD에 출력
 5. 커널 모듈로 I2C LCD 직접 제어 
 
- **3. 1 결과 화면**
-
-<img width="637" alt="kk" src="https://github.com/user-attachments/assets/b19ee127-e38f-40d2-8cd5-05c35122c844" />
-
-(사진 넣기)
-
-- 자동 모드
-
-![image.png](attachment:f86a67ad-ef83-420e-9982-6038fa34f1b3:image.png)
-
-- LCD 출력 화면
-- 서버 시작
-    
-    ![image.png](attachment:acbf2ee6-e836-417b-90b2-3b4543952c25:image.png)
-    
-    ![image.png](attachment:acbf2ee6-e836-417b-90b2-3b4543952c25:image.png)
-    
-- 현재 Player 수
-    
-    ![image.png](attachment:a9bd381a-adeb-40a5-be0d-4c1a6505a4d0:image.png)
-    
-- 문제 출력
-    
-    ![image.png](attachment:0ae358aa-dc39-49a2-9fbb-47bc8257d80e:image.png)
-    
-- 문제 맞춘 경우
-    
-    ![image.png](attachment:2672d99e-18a1-4941-92c8-6afe025df558:image.png)
-    
-- 현재랭킹 : !rank
-    
-    ![image.png](attachment:536c6789-317b-4016-8407-0c00d74b3dd2:image.png)
-    
-- 현재 우승 후보 : !score, 맞춘 문제 수
-    
-    ![image.png](attachment:d76f17d7-810a-4882-bde1-60bac3729d09:image.png)
-    
-
-- 시연 영상
-    - 수동 모드 게임
-    
-    [1.mp4](attachment:f09bea3d-367c-406a-8851-d6709e4addb2:1.mp4)
-    
-    - 자동 모드 게임
-    
-    [5.mp4](attachment:140184e5-7525-479c-b6bc-4bd8e38f0f1b:5.mp4)
-    
-
----
-
 ### 4. 기술 스택
 
 | 분류 | 기술 |
@@ -133,7 +83,7 @@
 
 ---
 
-### 6. 고찰 및 개선 방향
+### 5. 고찰 및 개선 방향
 
 - LCD 커서 이동 문제
     - `\n` 문자로 줄바꿈을 처리하려고 했으나, LCD는 직접 커서 주소를 지정해야 함
